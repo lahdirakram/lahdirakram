@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lahdirakram
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Data Science 
+- 👀 I’m interested in Data Engineering 
 - 📫 How to reach me mohamedakram.lahdir@gmail.com
 
 <!---
